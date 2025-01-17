@@ -1,1 +1,4 @@
 node_modules/
+.DS_Store
+.filename.text
+package-lock.json
